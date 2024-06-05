@@ -6,7 +6,6 @@ export default function Home() {
           <div className="flex-auto min-w-0 mt-6 flex-col px-2 md:px-0">
             <h1 className="mb-8 text-2xl font-semibold tracking-tighter">Hi, Im Harrison</h1>
             <p className="mb-4">Im a junior developer studying at RMIT, based in Melbourne, Australia</p>
-            <p className="mb-4">test text test text test text test text test text test text test text test text test text test text test text test text test text test text test text test text</p>
           </div>
         </section>
         <footer className="mb-16">
